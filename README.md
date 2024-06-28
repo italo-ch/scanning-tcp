@@ -36,4 +36,4 @@ Os módulos `socket` e `subprocess` são parte da biblioteca padrão do Python e
 
 - [@italo-ch](https://github.com/italo-ch)
 - [@sandrohmt](https://github.com/sandrohmt)
-- [@eric7](https://github.com/)
+- [@ericlead2002](https://github.com/ericlead2002)
